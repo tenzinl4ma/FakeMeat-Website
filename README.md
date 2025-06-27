@@ -10,7 +10,7 @@ Feel free to explore the project live:
 **Topic:** [👉 Press here to view the site](https://tenzinl4ma.github.io/FakeMeat-Website/)
 
 
-## Education is free, so here is the license
+## Education is free, so can clone and edit by anyone
 
 MIT License
 
